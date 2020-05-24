@@ -8,7 +8,7 @@
 >
 > Please confirm aria2 is not have any download task before run this script, otherwise they will be deleted
 
-## 效果
+## 效果 Result
 
 ### 执行之前 Before
 
@@ -41,3 +41,7 @@ wget https://raw.githubusercontent.com/xfzka/aria2-autoremove/master/autoremove.
 chmod +x autoremove.py
 ./autoremove.py
 ```
+
+> 推荐把 autoremove.py 移动到 aria2 的下载目录
+>
+> Recommend move autoremove.py to aria2 download path
